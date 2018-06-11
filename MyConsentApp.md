@@ -1,122 +1,22 @@
 
 ## MyConsentApp 
-  
+
+
+| / |
+| --- |
+
+
 ### Settings
 
 
-| Web Site State | Stopped  |
+| Name | MyConsentApp  |
 | --- | --- |
-| Always On |   |
-| Load Balancing |   |
-| Nb of workers |   |
-| Auto Swap Slot Name |   |
-| Enabled | True  |
-| GatewaySiteName |   |
-| Location | East US  |
-| Outbound Ip Addresses | 23.96.33.205,23.96.34.196,23.96.35.20,23.96.36.229  |
-| Premium App Deployed |   |
-| Virtual Network Name |   |
-| Repository Site Name | MyConsentApp  |
-| Scm Site Stopped | False  |
-| Use 32 Bits Worker Process |   |
+| Instrumentation Key | b98e412e-eef9-41d7-89e6-7cb30e8f017d  |
+| Kind | web  |
+| Flow Type |   |
+| Sampling Percentage |   |
 
 
-### App Service Plan
- 
-
-| Service Plan Name |   |
-| --- | --- |
-| Application Service Environment |   |
-| Geographical Location | East US  |
-| Maximum Number Of Workers | 1  |
-| Number Of Sites | 8  |
-| Per Site Scaling enabled | False  |
-| Status | Ready  |
-| Sku Name | F1  |
-| Sku Tier | Free  |
-| Sku Family | F  |
-| Sku Capacity | 0  |
-| Sku Size | F1  |
-
-
-### Tags
-
-
-| Tag Key | Tag Value |
-| --- | --- |
-
-### Site diagnostics
-The site diagnostics options have been configured as follows.
-
-| Request Tracing Enabled |   |
-| --- | --- |
-| Detailed logging enabled |   |
-| Remote Debugging Enabled |   |
-| Remote Debugging Version |   |
-
-
-### Web Jobs
-The following WebJobs are deployed in the App Service.
-
-| Name | Command | Type | Status |
-| --- | --- | --- | --- |
-
-### Functions
-The following Functions are deployed in the App Service.
-The following Proxies are deployed in the App Service.
-
-
-### App Settings
-The following application settings have been used for the Web Site.
-
-| Key | Value |
-| --- | --- |
-
-### Connection Strings
-The following connection strings are used in the Web Site.
-
-| Name | Type | Connection String |
-| --- | --- | --- |
-
-### Default documents
-The following default documents are defined.
-- Default.htm
-
-- Default.html
-
-- Default.asp
-
-- index.htm
-
-- index.html
-
-- iisstart.htm
-
-- default.aspx
-
-- index.php
-
-- hostingstart.html
-
-
-### Host Names
-The following Host Names are defined.
-- myconsentapp.azurewebsites.net
-
-- myconsentapp.scm.azurewebsites.net
-
-
-### Slots
-The following Slots are defined.
-
-### Metrics
-
-#### Average Response Time
- 
-#### Requests
- 
-### Architecture diagram
- 
 ### Role Assignments
  
 
