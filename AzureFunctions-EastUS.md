@@ -21,6 +21,7 @@ The following policies have been found at the resource group level: 
 
 | Name | Type | Level | Notes |
 | --- | --- | --- | --- |
+|   |   | CanNotDelete  | One or more function apps were linked to this storage account. You can see all the function apps linked to the account under 'files' or 'Shares'.  |
 
 ### Role Assignments
 
