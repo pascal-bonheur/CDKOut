@@ -62,9 +62,9 @@ The following WebJobs are deployed in the App Service.
 
 | Name | Command | Type | Status |
 | --- | --- | --- | --- |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| app5  |   | triggered  |   |
+| hub1  |   | triggered  |   |
+| hub4  |   | triggered  |   |
 
 ### Functions
 The following Functions are deployed in the App Service.
@@ -129,7 +129,7 @@ The following Slots are defined.
 #### Requests
  
 ### Architecture diagram
- 
+![alt text](/3572e7e3bb51453489eb6a450be494ad.jpg) 
 ### Role Assignments
  
 
