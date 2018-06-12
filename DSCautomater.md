@@ -6,13 +6,13 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   | japaneast  | Microsoft.Automation/automationAccounts  |
+|   | japaneast  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | japaneast  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | japaneast  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | japaneast  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | japaneast  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | japaneast  | Microsoft.Automation/automationAccounts/runbooks  |
 
 ### Policies
 The following policies have been found at the resource group level: 
