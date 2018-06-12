@@ -6,11 +6,11 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   | eastus2  | Microsoft.Automation/automationAccounts  |
+|   | eastus  | Microsoft.OperationalInsights/workspaces  |
+|   | eastus  | Microsoft.OperationsManagement/solutions  |
+|   | eastus  | Microsoft.OperationsManagement/solutions  |
+|   | eastus  | Microsoft.OperationsManagement/solutions  |
 
 ### Policies
 The following policies have been found at the resource group level: 
