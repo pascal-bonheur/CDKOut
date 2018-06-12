@@ -1,6 +1,6 @@
 
 ## betaServer 
-![alt text](/assets/737fab0936d941cfae3742528b250b1b.jpg) 
+![alt text](/assets/9a862bc0a8f14e848e01c302299a25f7.jpg) 
 ### Settings
 The virtual machine betaServer has the following settings:
 
