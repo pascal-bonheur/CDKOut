@@ -1,6 +1,6 @@
 
 ## adkjenkins 
-![alt text](/assets/d809c210604f45c2a17ef6f9f1d76850.jpg) 
+![alt text](/assets/eee96e6548814aada7e68af1fe562608.jpg) 
 ### Settings
 The virtual machine adkjenkins has the following settings:
 
