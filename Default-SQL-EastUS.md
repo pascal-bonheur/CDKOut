@@ -6,12 +6,12 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   | eastus  | Microsoft.Sql/servers  |
+|   | eastus  | Microsoft.Sql/servers/databases  |
+|   | eastus  | Microsoft.Sql/servers/databases  |
+|   | eastus  | Microsoft.Sql/servers/databases  |
+|   | eastus  | Microsoft.Sql/servers/databases  |
+|   | eastus  | Microsoft.Sql/servers/databases  |
 
 ### Policies
 The following policies have been found at the resource group level: 
