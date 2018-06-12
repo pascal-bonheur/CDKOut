@@ -6,9 +6,9 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   | eastus  | Microsoft.Storage/storageAccounts  |
+|   | eastus  | Microsoft.Web/serverFarms  |
+|   | eastus  | Microsoft.Web/sites  |
 
 ### Policies
 The following policies have been found at the resource group level: 
