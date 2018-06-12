@@ -6,9 +6,9 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   | eastus2  | Microsoft.DataLakeAnalytics/accounts  |
+|   | eastus2  | Microsoft.DataLakeStore/accounts  |
+|   | eastus2  | Microsoft.KeyVault/vaults  |
 
 ### Policies
 The following policies have been found at the resource group level: 
