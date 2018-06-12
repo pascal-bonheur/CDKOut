@@ -63,7 +63,7 @@ The following WebJobs are deployed in the App Service.
 
 ### Functions
 The following Functions are deployed in the App Service.
-####  
+#### azuredockitwithfunctions/HttpTriggerCSharp1 
 
 The following Proxies are deployed in the App Service.
 #### adkproxy 
@@ -120,7 +120,7 @@ The following Slots are defined.
 #### Requests
  
 ### Architecture diagram
- 
+![alt text](/70a7c272d3784abf8ea8db0a26a8118d.jpg) 
 ### Role Assignments
  
 
