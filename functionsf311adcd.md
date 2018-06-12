@@ -63,13 +63,13 @@ The following WebJobs are deployed in the App Service.
 
 ### Functions
 The following Functions are deployed in the App Service.
-####  
+#### functionsf311adcd/HttpTriggerCSharp1 
 
-####  
+#### functionsf311adcd/HttpTriggerCSharp2 
 
-####  
+#### functionsf311adcd/HttpTriggerCSharp3 
 
-####  
+#### functionsf311adcd/TimerTriggerCSharp1 
 
 The following Proxies are deployed in the App Service.
 
@@ -122,7 +122,7 @@ The following Slots are defined.
 #### Requests
  
 ### Architecture diagram
- 
+![alt text](/ca73f4df15784700a6d717310ff486b0.jpg) 
 ### Role Assignments
  
 
