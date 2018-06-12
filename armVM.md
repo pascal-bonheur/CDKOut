@@ -1,6 +1,6 @@
 
 ## armVM 
-![alt text](/assets/524175606a7849a1b21215314bb89853.jpg) 
+![alt text](/assets/afb8b137f4a54a5bbb724b398cc0e5c8.jpg) 
 ### Settings
 The virtual machine armVM has the following settings:
 
