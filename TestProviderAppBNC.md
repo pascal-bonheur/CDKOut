@@ -6,9 +6,9 @@
 
 | Web Site State | Running  |
 | --- | --- |
-| Always On |   |
-| Load Balancing |   |
-| Nb of workers |   |
+| Always On | False  |
+| Load Balancing | LeastRequests  |
+| Nb of workers | 1  |
 | Auto Swap Slot Name |   |
 | Enabled | True  |
 | GatewaySiteName |   |
@@ -18,7 +18,7 @@
 | Virtual Network Name |   |
 | Repository Site Name | TestProviderAppBNC  |
 | Scm Site Stopped | False  |
-| Use 32 Bits Worker Process |   |
+| Use 32 Bits Worker Process | True  |
 
 
 ### App Service Plan
@@ -44,15 +44,15 @@
 
 | Tag Key | Tag Value |
 | --- | --- |
-| Hidden-related:/subscriptions/275ddf79-b240-44e7-9916-f24175b451b1/resourceGroups/Default-Web-EastUS/providers/Microsoft.Web/serverfarms/Default1  | empty  |
+| hidden-related:/subscriptions/275ddf79-b240-44e7-9916-f24175b451b1/resourceGroups/Default-Web-EastUS/providers/Microsoft.Web/serverfarms/Default1  | empty  |
 
 ### Site diagnostics
 The site diagnostics options have been configured as follows.
 
-| Request Tracing Enabled |   |
+| Request Tracing Enabled | False  |
 | --- | --- |
-| Detailed logging enabled |   |
-| Remote Debugging Enabled |   |
+| Detailed logging enabled | False  |
+| Remote Debugging Enabled | False  |
 | Remote Debugging Version |   |
 
 
@@ -117,7 +117,7 @@ The following Slots are defined.
 #### Requests
  
 ### Architecture diagram
-![alt text](/895ee63dccae46dcb926583fefc80f3d.jpg) 
+![alt text](/assets/e24407f34a5f462cbb462b82fa418831.jpg) 
 ### Role Assignments
  
 
