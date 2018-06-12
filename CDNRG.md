@@ -6,8 +6,8 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
+|   | westus  | microsoft.cdn/profiles  |
+|   | westus  | microsoft.cdn/profiles/endpoints  |
 
 ### Policies
 The following policies have been found at the resource group level: 
