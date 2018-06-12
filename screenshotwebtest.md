@@ -6,9 +6,9 @@
 
 | Web Site State | Running  |
 | --- | --- |
-| Always On |   |
-| Load Balancing |   |
-| Nb of workers |   |
+| Always On | False  |
+| Load Balancing | LeastRequests  |
+| Nb of workers | 1  |
 | Auto Swap Slot Name |   |
 | Enabled | True  |
 | GatewaySiteName |   |
@@ -18,7 +18,7 @@
 | Virtual Network Name |   |
 | Repository Site Name | screenshotwebtest  |
 | Scm Site Stopped | False  |
-| Use 32 Bits Worker Process |   |
+| Use 32 Bits Worker Process | True  |
 
 
 ### App Service Plan
@@ -48,10 +48,10 @@
 ### Site diagnostics
 The site diagnostics options have been configured as follows.
 
-| Request Tracing Enabled |   |
+| Request Tracing Enabled | False  |
 | --- | --- |
-| Detailed logging enabled |   |
-| Remote Debugging Enabled |   |
+| Detailed logging enabled | False  |
+| Remote Debugging Enabled | False  |
 | Remote Debugging Version |   |
 
 
@@ -114,7 +114,7 @@ The following Slots are defined.
 #### Requests
  
 ### Architecture diagram
-![alt text](/8b5344f1d3914abc80df218bcb00210b.jpg) 
+![alt text](/assets/62f1f0abec39491f9f63b98370ee216b.jpg) 
 ### Role Assignments
  
 
