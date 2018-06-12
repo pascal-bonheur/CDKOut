@@ -1,6 +1,6 @@
 
 ## vmrecreatedfromg2tauto 
-![alt text](/assets/c4f7a423ced84decae81ab81671dae3f.jpg) 
+![alt text](/assets/55387771f6b241efa98bd50c753f0059.jpg) 
 ### Settings
 The virtual machine vmrecreatedfromg2tauto has the following settings:
 
