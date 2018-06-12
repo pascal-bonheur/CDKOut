@@ -6,12 +6,12 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   | canadaeast  | Microsoft.Network/networkSecurityGroups  |
+|   | canadaeast  | Microsoft.Network/networkSecurityGroups  |
+|   | canadaeast  | Microsoft.Network/networkSecurityGroups  |
+|   | canadaeast  | Microsoft.Network/routeTables  |
+|   | canadaeast  | Microsoft.Network/virtualNetworks  |
+|   | eastus  | Microsoft.Web/sites  |
 
 ### Policies
 The following policies have been found at the resource group level: 
