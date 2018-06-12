@@ -6,9 +6,9 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   | eastus  | Microsoft.Media/mediaservices  |
+|   | eastus  | Microsoft.Media/mediaservices/streamingEndpoints  |
+|   | eastus  | Microsoft.Network/virtualNetworks  |
 
 ### Policies
 The following policies have been found at the resource group level: 
