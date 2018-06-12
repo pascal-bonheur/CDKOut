@@ -6,9 +6,9 @@
 
 | Web Site State | Stopped  |
 | --- | --- |
-| Always On |   |
-| Load Balancing |   |
-| Nb of workers |   |
+| Always On | False  |
+| Load Balancing | LeastRequests  |
+| Nb of workers | 1  |
 | Auto Swap Slot Name |   |
 | Enabled | True  |
 | GatewaySiteName |   |
@@ -18,7 +18,7 @@
 | Virtual Network Name |   |
 | Repository Site Name | MyConsentApp  |
 | Scm Site Stopped | False  |
-| Use 32 Bits Worker Process |   |
+| Use 32 Bits Worker Process | True  |
 
 
 ### App Service Plan
@@ -48,11 +48,11 @@
 ### Site diagnostics
 The site diagnostics options have been configured as follows.
 
-| Request Tracing Enabled |   |
+| Request Tracing Enabled | False  |
 | --- | --- |
-| Detailed logging enabled |   |
-| Remote Debugging Enabled |   |
-| Remote Debugging Version |   |
+| Detailed logging enabled | False  |
+| Remote Debugging Enabled | False  |
+| Remote Debugging Version | VS2012  |
 
 
 ### Web Jobs
@@ -116,7 +116,7 @@ The following Slots are defined.
 #### Requests
  
 ### Architecture diagram
-![alt text](/1e83b0438a0c475ea8cc446bda5e85cc.jpg) 
+![alt text](/assets/6981d8df18eb4167b0dc9ebbd7ef7725.jpg) 
 ### Role Assignments
  
 
