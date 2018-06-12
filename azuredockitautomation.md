@@ -6,20 +6,20 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   | eastus2  | Microsoft.Automation/automationAccounts  |
+|   | eastus2  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | eastus2  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | eastus2  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | eastus2  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | eastus2  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | eastus2  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | eastus2  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | eastus2  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | eastus2  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | eastus2  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | eastus2  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | eastus2  | Microsoft.Automation/automationAccounts/runbooks  |
+|   | eastus2  | Microsoft.Storage/storageAccounts  |
 
 ### Policies
 The following policies have been found at the resource group level: 
