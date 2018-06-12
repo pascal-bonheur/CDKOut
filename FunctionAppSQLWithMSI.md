@@ -64,7 +64,7 @@ The following WebJobs are deployed in the App Service.
 
 ### Functions
 The following Functions are deployed in the App Service.
-####  
+#### FunctionAppSQLWithMSI/Function1 
 
 The following Proxies are deployed in the App Service.
 
@@ -117,7 +117,7 @@ The following Slots are defined.
 #### Requests
  
 ### Architecture diagram
- 
+![alt text](/63818ed9e87446a09c4e07f324a024bd.jpg) 
 ### Role Assignments
  
 
