@@ -6,8 +6,8 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
+|   | eastus  | Microsoft.ClassicStorage/storageAccounts  |
+|   | eastus  | Microsoft.Search/searchServices  |
 
 ### Policies
 The following policies have been found at the resource group level: 
