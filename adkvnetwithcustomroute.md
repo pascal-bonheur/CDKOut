@@ -6,8 +6,8 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
+|   | eastus2  | Microsoft.Network/routeTables  |
+|   | eastus2  | Microsoft.Network/virtualNetworks  |
 
 ### Policies
 The following policies have been found at the resource group level: 
