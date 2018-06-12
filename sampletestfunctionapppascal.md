@@ -6,9 +6,9 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   | centralus  | Microsoft.Storage/storageAccounts  |
+|   | centralus  | Microsoft.Web/serverFarms  |
+|   | centralus  | Microsoft.Web/sites  |
 
 ### Policies
 The following policies have been found at the resource group level: 
