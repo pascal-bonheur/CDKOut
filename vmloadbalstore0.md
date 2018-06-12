@@ -1,6 +1,6 @@
 
 ## vmloadbalstore0 
-![alt text](/assets/38440c19d49d43dfb3ac99dbf7616e3f.jpg) 
+![alt text](/assets/d86c261fef354cb79b96f2d0cab29473.jpg) 
 ### Settings
 The virtual machine vmloadbalstore0 has the following settings:
 
