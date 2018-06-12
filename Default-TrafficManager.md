@@ -6,7 +6,7 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
+|   | global  | Microsoft.Network/trafficmanagerprofiles  |
 
 ### Policies
 The following policies have been found at the resource group level: 
