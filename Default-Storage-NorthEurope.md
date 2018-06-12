@@ -6,8 +6,8 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
+|   | northeurope  | Microsoft.ClassicStorage/storageAccounts  |
+|   | northeurope  | Microsoft.ClassicStorage/storageAccounts  |
 
 ### Policies
 The following policies have been found at the resource group level: 
