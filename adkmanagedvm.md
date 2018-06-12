@@ -1,6 +1,6 @@
 
 ## adkmanagedvm 
-![alt text](/assets/c2169c7ca50641928a47b2a6c2736c2a.jpg) 
+![alt text](/assets/42f65690941f411fb08f1b20af41ba6c.jpg) 
 ### Settings
 The virtual machine adkmanagedvm has the following settings:
 
