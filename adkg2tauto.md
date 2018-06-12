@@ -30,8 +30,6 @@ The following policies have been found at the resource group level: 
 
 | Name | Type | Level | Notes |
 | --- | --- | --- | --- |
-|   |   | ReadOnly  |   |
-|   |   | ReadOnly  |   |
 
 ### Role Assignments
 
