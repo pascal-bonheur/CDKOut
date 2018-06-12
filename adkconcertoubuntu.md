@@ -1,6 +1,6 @@
 
 ## adkconcertoubuntu 
-![alt text](/assets/e1219d5dbb4144c4bc33e162b124f45d.jpg) 
+![alt text](/assets/84dd29b6344c43cf8c67c20dfa245ac8.jpg) 
 ### Settings
 The virtual machine adkconcertoubuntu has the following settings:
 
