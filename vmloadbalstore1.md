@@ -1,6 +1,6 @@
 
 ## vmloadbalstore1 
-![alt text](/assets/0bc8c2da7f884d65bfe40a76d84f804d.jpg) 
+![alt text](/assets/8f6d5709fdb04588905cba273c136fde.jpg) 
 ### Settings
 The virtual machine vmloadbalstore1 has the following settings:
 
