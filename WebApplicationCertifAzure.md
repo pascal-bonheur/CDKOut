@@ -117,7 +117,7 @@ The following Slots are defined.
 #### Requests
  
 ### Architecture diagram
- 
+![alt text](/ad16e571078b4d708adc10f80dd32012.jpg) 
 ### Role Assignments
  
 
