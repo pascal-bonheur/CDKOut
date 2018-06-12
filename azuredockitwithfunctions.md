@@ -120,7 +120,7 @@ The following Slots are defined.
 #### Requests
  
 ### Architecture diagram
-![alt text](/assets/0cbb063eb5c34f369bc204e6dd58fb79.jpg) 
+![alt text](/assets/2550dd14a61a44fca3a440ac8dab5c87.jpg) 
 ### Role Assignments
  
 
