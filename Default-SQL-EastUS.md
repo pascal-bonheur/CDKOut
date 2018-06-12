@@ -4,9 +4,6 @@
 ### Resources
 
 
-
- ![alt text](/test2.jpg)
-
 | Name | Location | Type |
 | --- | --- | --- |
 |   |   |   |
