@@ -6,7 +6,7 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
+|   | centralindia  | Microsoft.Storage/storageAccounts  |
 
 ### Policies
 The following policies have been found at the resource group level: 
