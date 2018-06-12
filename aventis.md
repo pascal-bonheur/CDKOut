@@ -1,6 +1,6 @@
 
 ## aventis 
-![alt text](/assets/6b11006cbe7746bf99b136d8f4ef10ea.jpg) 
+![alt text](/assets/421dd7f5a76341e7a11c61484d24e679.jpg) 
 ### Settings
 The virtual machine aventis has the following settings:
 
