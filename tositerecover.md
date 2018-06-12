@@ -1,6 +1,6 @@
 
 ## tositerecover 
-![alt text](/assets/d931c5f66b6b447ab7bd29f69ab997ff.jpg) 
+![alt text](/assets/d06e1a8fc62f4064bd1ff89737266e3f.jpg) 
 ### Settings
 The virtual machine tositerecover has the following settings:
 
