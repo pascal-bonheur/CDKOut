@@ -6,7 +6,7 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
+|   | eastus2  | Microsoft.PowerBI/workspaceCollections  |
 
 ### Policies
 The following policies have been found at the resource group level: 
