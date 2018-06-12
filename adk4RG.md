@@ -6,8 +6,8 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
+|   | eastus2  | Microsoft.Network/networkSecurityGroups  |
+|   | southcentralus  | Microsoft.Storage/storageAccounts  |
 
 ### Policies
 The following policies have been found at the resource group level: 
