@@ -24,11 +24,6 @@ The following policies have been found at the resource group level: 
 
 | Name | Type | Level | Notes |
 | --- | --- | --- | --- |
-|   |   | CanNotDelete  | Reserved resource locked by 'mytestdevlab' lab.  |
-|   |   | CanNotDelete  | Reserved resource locked by 'mytestdevlab' lab.  |
-|   |   | CanNotDelete  | Reserved resource locked by 'mytestdevlab' lab.  |
-|   |   | CanNotDelete  | Reserved resource locked by 'mytestdevlab' lab.  |
-|   |   | CanNotDelete  | Reserved resource locked by 'mytestdevlab' lab.  |
 
 ### Role Assignments
 
