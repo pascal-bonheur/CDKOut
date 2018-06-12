@@ -6,7 +6,7 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
+|   | centralus  | Microsoft.ServiceBus/namespaces  |
 
 ### Policies
 The following policies have been found at the resource group level: 
