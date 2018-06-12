@@ -6,12 +6,12 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   | eastus  | microsoft.insights/alertrules  |
+|   | eastus  | microsoft.insights/alertrules  |
+|   | eastus  | microsoft.insights/alertrules  |
+|   | eastus  | microsoft.insights/alertrules  |
+|   | southcentralus  | microsoft.insights/components  |
+|   | southcentralus  | microsoft.insights/components  |
 
 ### Policies
 The following policies have been found at the resource group level: 
