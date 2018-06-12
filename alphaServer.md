@@ -1,6 +1,6 @@
 
 ## alphaServer 
-![alt text](/assets/181ce1448e80491c828d903984b415f5.jpg) 
+![alt text](/assets/14e4be8352aa4e428240a73e813eecf5.jpg) 
 ### Settings
 The virtual machine alphaServer has the following settings:
 
